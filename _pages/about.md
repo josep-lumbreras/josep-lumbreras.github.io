@@ -28,3 +28,8 @@ I am Josep Lumbreras, a Ph.D. student at <a href="https://www.quantumlah.org/peo
 M. Fanizza, N. Galke, **J. Lumbreras**, C. Rouzé, A. Winter.<br>
 [<a href="https://arxiv.org/abs/2312.07516" target="_blank">arXiv (2024)</a>]
 
+1. *Quantum Theory in Finite Dimension Cannot Explain Every General Process with Finite Memory* <br>
+M. Fanizza<sup>$\dagger$</sup>, **J. Lumbreras**<sup>$\dagger$</sup> (co-first author), A. Winter.<br>
+[<a href="https://link.springer.com/article/10.1007/s00220-023-04913-4" target="_blank"> Communications in Mathematical Physics</a>][<a href="https://www.youtube.com/watch?v=fGKAXF152W8&t=828s" target="_blank">TQC 23</a>][<a href="https://www.youtube.com/watch?v=vgHnd661E4Y&t=1124s" target="_blank">Beyond IID 2022</a>][<a href="https://arxiv.org/abs/2209.11225" target="_blank">arXiv (2023)</a>]
+
+
