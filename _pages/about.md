@@ -12,6 +12,14 @@ I am Josep Lumbreras, a Ph.D. student at <a href="https://www.quantumlah.org/peo
 
 ## Research interests
 
+My main line of research lies in proving rigorous theoretical results at the intersection of Reinforcement
+Learning and Quantum Information. Specifically I am interested in the application of multi-armed bandit theory
+to quantum learning tasks, as well as contributions to the classical problem of stochastic bandits.
+Additionally, I work on the generalization of Hidden Markov Models and Partially Observable Markov
+Decision Processes into quantum and general probabilistic theories. Although my work is primarily
+theoretical, it is driven by practical applications, aiming to contribute both to academic advancements and
+real-world implementations into fields such as recommender systems, stochastic processes prediction and
+more generally artificial intelligence
 
 
 ## Publications
