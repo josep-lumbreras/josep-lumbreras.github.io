@@ -22,5 +22,9 @@ I am Josep Lumbreras, a Ph.D. student at <a href="https://www.quantumlah.org/peo
 
 1. *Linear bandits with polylogarithmic minimax regret* <br>
 **J. Lumbreras**, M. Tomamichel.<br>
-[<a href="https://proceedings.mlr.press/v247/lumbreras24a.html" target="_blank">COLT (2024)</a>][<a href="https://arxiv.org/abs/2402.12042" target="_blank">pdf</a>]
+[<a href="https://proceedings.mlr.press/v247/lumbreras24a.html" target="_blank">COLT (2024)</a>][<a href="https://arxiv.org/abs/2402.12042" target="_blank">arXiv (2024)</a>]
+
+1. *Learning finitely correlated states: stability of the spectral reconstruction* <br>
+M. Fanizza, N. Galke, **J. Lumbreras**, C. Rouzé, A. Winter.<br>
+[<a href="https://arxiv.org/abs/2312.07516" target="_blank">arXiv (2024)</a>]
 
