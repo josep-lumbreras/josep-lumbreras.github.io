@@ -8,15 +8,17 @@ redirect_from:
 ---
 
 
-Hello I am testing this website. Please come later
+I am Josep Lumbreras, a Ph.D. student at [<a href="https://www.quantumlah.org/people/profile/josep_l" target="Centre for Quantum Technologies">pdf</a>] (National University of Singapore) under the supervision of Prof. [<a href="https://marcotom.info" target="Marco Tomamichel">pdf</a>]. Previously I completed a double major in physics and mathematics and a master's in particle physics and gravitation at University of Barcelona.
+
+## Research interests
 
 
 
-Publications
+## Publications
 ======
 1. *Learning pure quantum states (almost) without regret* <br>
 **J. Lumbreras**, M. Terekhov, M. Tomamichel.<br>
-*arXiv (2024).* [<a href="https://arxiv.org/abs/2406.18370" target="_blank">pdf</a>]
+[<a href="https://arxiv.org/abs/2406.18370" target="_blank">arXiv (2024)</a>]
 
 1. *Linear bandits with polylogarithmic minimax regret* <br>
 **J. Lumbreras**, M. Tomamichel.<br>
