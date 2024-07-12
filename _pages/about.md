@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Josep Lumbreras, a Ph.D. student at [<a href="https://www.quantumlah.org/people/profile/josep_l" target="Centre for Quantum Technologies">pdf</a>] (National University of Singapore) under the supervision of Prof. [<a href="https://marcotom.info" target="Marco Tomamichel">pdf</a>]. Previously I completed a double major in physics and mathematics and a master's in particle physics and gravitation at University of Barcelona.
+I am Josep Lumbreras, a Ph.D. student at <a href="https://www.quantumlah.org/people/profile/josep_l" target="blank">Centre for Quantum Technologies</a> (National University of Singapore) under the supervision of Prof. <a href="https://marcotom.info" target="blank">Marco Tomamichel</a>. Previously I completed a double major in physics and mathematics and a master's in particle physics and gravitation at University of Barcelona.
 
 ## Research interests
 
