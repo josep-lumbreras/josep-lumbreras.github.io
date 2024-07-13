@@ -12,7 +12,7 @@ I am Josep Lumbreras, a Ph.D. student at <a href="https://www.quantumlah.org/peo
 
 ## Research interests
 
-My main line of research lies in proving rigorous theoretical results at the intersection of Reinforcement
+My main line of research lies in proving rigorous theoretical results at the intersection of Machine
 Learning and Quantum Information. Specifically I am interested in the application of multi-armed bandit theory
 to quantum learning tasks, as well as contributions to the classical problem of stochastic bandits. This includes:
 
