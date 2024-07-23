@@ -26,7 +26,7 @@ Additionally, I work on the generalization of (Partially Observable) Hidden Mark
 
 1. *Learning pure quantum states (almost) without regret* <br>
 **J. Lumbreras**, M. Terekhov, M. Tomamichel.<br>
-[<a href="https://arxiv.org/abs/2406.18370" target="_blank">arXiv (2024)</a>]
+[<a href="http://aqis-conf.org/2024/program" target="_blank">AQIS24 (long talk)</a>][<a href="https://arxiv.org/abs/2406.18370" target="_blank">arXiv (2024)</a>]
 
 1. *Linear bandits with polylogarithmic minimax regret* <br>
 **J. Lumbreras**, M. Tomamichel.<br>
