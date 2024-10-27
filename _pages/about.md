@@ -42,7 +42,7 @@ M. Fanizza<sup>†</sup>, **J. Lumbreras**<sup>†</sup> (co-first author), A. W
 
 1. *Quantum contextual bandits and recommender systems for quantum data* <br>
 S. Brahmachari<sup>†</sup>, **J. Lumbreras**<sup>†</sup> (co-first author), M. Tomamichel.<br>
-[<a href="https://arxiv.org/abs/2301.13524" target="_blank">arXiv (2023)</a>]
+[<a href="https://link.springer.com/article/10.1007/s42484-024-00189-6" target="_blank">Quantum Machine Intelligence</a>][<a href="https://arxiv.org/abs/2301.13524" target="_blank">arXiv (2023)</a>]
 
 1. *Multi-armed quantum bandits: Exploration versus exploitation when learning properties of quantum states* <br>
 **J. Lumbreras**, E. Haapasalo, M. Tomamichel.<br>
