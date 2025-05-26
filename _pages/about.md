@@ -8,18 +8,15 @@ redirect_from:
 ---
 
 
-I am Josep Lumbreras, a Ph.D. student at <a href="https://www.quantumlah.org/people/profile/josep_l" target="blank">Centre for Quantum Technologies</a> (National University of Singapore) under the supervision of Prof. <a href="https://marcotom.info" target="blank">Marco Tomamichel</a>. Previously I completed a double major in physics and mathematics and a master's in particle physics and gravitation at University of Barcelona.
+I am Josep Lumbreras, a Ph.D. student at <a href="https://www.quantumlah.org/people/profile/josep_l" target="blank">Centre for Quantum Technologies</a> (National University of Singapore) under the supervision of Prof. <a href="https://marcotom.info" target="blank">Marco Tomamichel</a>. Previously, I completed a double major in physics and mathematics and a master's in particle physics and gravitation at the University of Barcelona.
 
 ## Research interests
 
-My main line of research lies in proving rigorous theoretical results at the intersection of Machine
-Learning and Quantum Information. Specifically I am interested in the application of multi-armed bandit theory
-to quantum learning tasks, as well as contributions to the classical problem of stochastic bandits. This includes:
+In general, I am interested in learning theory problems applied to quantum systems.
 
-* Identifying which quantum tasks the exploration-exploitation dilemma is relevant.
-* Designing new algorithms and proving information theoretical lower bounds where the underlying structure of the problem is quantum.
+My main line of research lies at the intersection of Machine Learning and Quantum Information, where I aim to prove rigorous theoretical results. I am particularly interested in applying reinforcement learning to quantum settings, such as adaptive measurements and quantum control. Among the various RL frameworks, I focus especially on the multi-armed bandit problem in quantum contexts.
 
-Additionally, I work on the generalization of (Partially Observable) Hidden Markov Models into quantum and general probabilistic theories.
+In addition, I work on the quantum generalization of (Partially Observable) Hidden Markov Models, exploring both their fundamental aspects and practical applications.
 
 
 ## Publications
