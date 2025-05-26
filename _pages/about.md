@@ -24,6 +24,10 @@ Additionally, I work on the generalization of (Partially Observable) Hidden Mark
 
 ## Publications
 
+1. *Quantum state-agnostic work extraction (almost) without dissipation* <br>
+**J. Lumbreras**, R.C. Cheng, Y. Hu, M. Gu, M. Tomamichel.<br>
+[<a href="https://2025.quantumresources.science/accepted_talks.html" target="_blank">Quantum Resources (2025) (long talk)</a>][<a href="https://arxiv.org/abs/2505.09456" target="_blank">arXiv (2025)</a>]
+
 1. *Learning pure quantum states (almost) without regret* <br>
 **J. Lumbreras**, M. Terekhov, M. Tomamichel.<br>
 [<a href="http://aqis-conf.org/2024/program" target="_blank">AQIS24 (long talk)</a>][<a href="https://arxiv.org/abs/2406.18370" target="_blank">arXiv (2024)</a>]
