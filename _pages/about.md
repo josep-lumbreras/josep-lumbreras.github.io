@@ -35,7 +35,7 @@ In addition, I work on the quantum generalization of (Partially Observable) Hidd
 
 1. *Learning finitely correlated states: stability of the spectral reconstruction* <br>
 M. Fanizza, N. Galke, **J. Lumbreras**, C. Rouzé, A. Winter.<br>
-[<a href="[https://quarc.quantumcomplexity.org/program/" target="_blank">QuARC workshop 2025</a>][<a href="https://beyondiid2024.iquist.illinois.edu/program/" target="_blank">Beyond IID 2024</a>][<a href="https://arxiv.org/abs/2312.07516" target="_blank">arXiv (2024)</a>]
+[<a href="https://quarc.quantumcomplexity.org/program/" target="_blank">QuARC workshop 2025</a>][<a href="https://beyondiid2024.iquist.illinois.edu/program/" target="_blank">Beyond IID 2024</a>][<a href="https://arxiv.org/abs/2312.07516" target="_blank">arXiv (2024)</a>]
 
 1. *Quantum Theory in Finite Dimension Cannot Explain Every General Process with Finite Memory* <br>
 M. Fanizza<sup>†</sup>, **J. Lumbreras**<sup>†</sup> (co-first author), A. Winter.<br>
