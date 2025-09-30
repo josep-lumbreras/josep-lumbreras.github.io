@@ -22,7 +22,7 @@ In addition, I work on the quantum generalization of (Partially Observable) Hidd
 ## Publications
 
 1. *Bandits roaming Hilbert space* <br>
-**J. Lumbreras**
+**J. Lumbreras**.<br>
 [<a href="https://arxiv.org/abs/2509.24569" target="_blank">arXiv (2025)</a>]
 
 1. *Quantum state-agnostic work extraction (almost) without dissipation* <br>
