@@ -18,7 +18,7 @@ In general, my research interests lie in **(quantum) learning theory**.
 
 My main line of work is at the intersection of **reinforcement learning** and **quantum information**, where I aim to establish rigorous theoretical results. I am particularly interested in applying reinforcement learning to quantum settings, including adaptive measurements, quantum control, and thermodynamic agents. Within the broad landscape of RL frameworks, I have focused especially on the **multi-armed bandit** problem and its applications to quantum tasks.
 
-I also study the quantum generalization of **(Partially Observable) Hidden Markov Models**, investigating both their fundamental aspects and practical applications. These models provide a foundation for several reinforcement learning frameworks.
+I also study the quantum generalization of **(Partially Observable) Hidden Markov Models**, investigating both their fundamental aspects and practical applications. These models provide a foundation for describing stochastic processes, quantum states with finite correlations, and several reinforcement learning frameworks with quantum data.
 
 Feel free to reach out by email if you would like to discuss these topics or explore potential collaborations.
 
