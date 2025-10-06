@@ -8,15 +8,20 @@ redirect_from:
 ---
 
 
-I am Josep Lumbreras, a Ph.D. student at <a href="https://www.quantumlah.org/people/profile/josep_l" target="blank">Centre for Quantum Technologies</a> (National University of Singapore) under the supervision of Prof. <a href="https://marcotom.info" target="blank">Marco Tomamichel</a>. Previously, I completed a double major in physics and mathematics and a master's in particle physics and gravitation at the University of Barcelona.
+I am Josep Lumbreras, a Research Fellow at <a href="https://www.ntu.edu.sg" target="_blank">Nanyang Technological University</a> (Singapore), where I work in the group of Prof. <a href="https://www.quantumcomplexity.org/milegu/" target="_blank">Mile Gu</a>.
+I completed my Ph.D. at the <a href="https://www.quantumlah.org/people/profile/josep_l" target="_blank">Centre for Quantum Technologies</a>, National University of Singapore, under the supervision of Prof. <a href="https://marcotom.info" target="_blank">Marco Tomamichel</a>. Before that, I obtained a double major in Physics and Mathematics as well as a Master’s degree in Particle Physics and Gravitation from the University of Barcelona.
+
 
 ## Research interests
 
-In general, I am interested in learning theory problems applied to quantum systems.
+In general, my research interests lie in **(quantum) learning theory**.
 
-My main line of research lies at the intersection of Machine Learning and Quantum Information, where I aim to prove rigorous theoretical results. I am particularly interested in applying reinforcement learning to quantum settings, such as adaptive measurements and quantum control. Among the various RL frameworks, I focus especially on the multi-armed bandit problem in quantum contexts.
+My main line of work is at the intersection of **reinforcement learning** and **quantum information**, where I aim to establish rigorous theoretical results. I am particularly interested in applying reinforcement learning to quantum settings, including adaptive measurements, quantum control, and thermodynamic agents. Within the broad landscape of RL frameworks, I have focused especially on the **multi-armed bandit** problem and its applications to quantum tasks.
 
-In addition, I work on the quantum generalization of (Partially Observable) Hidden Markov Models, exploring both their fundamental aspects and practical applications.
+I also study the quantum generalization of **(Partially Observable) Hidden Markov Models**, investigating both their fundamental aspects and practical applications. These models provide a foundation for several reinforcement learning frameworks.
+
+Feel free to reach out by email if you would like to discuss these topics or explore potential collaborations.
+
 
 
 ## Publications
