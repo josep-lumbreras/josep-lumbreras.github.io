@@ -16,7 +16,7 @@ I completed my Ph.D. at the <a href="https://www.quantumlah.org/people/profile/j
 
 My research lies at the forefront of **(quantum) learning theory**.
 
-I work at the intersection of **reinforcement learning** (RL) and **quantum information**, establishing rigorous theoretical guarantees for quantum algorithms. My primary focus is on applying RL to complex quantum environments, with specific interests in adaptive measurements, quantum control, and the behavior of thermodynamic agents. Within the broader RL landscape, I specialize in the **multi-armed bandit** problem, particularly its applicatons to decision making problems where the data is comes from a quantum process.
+I work at the intersection of **reinforcement learning** (RL) and **quantum information**, establishing rigorous theoretical guarantees. My primary focus is on applying RL to complex quantum environments, with specific interests in adaptive measurements, quantum control, and the behavior of thermodynamic agents. Within the broader RL landscape, I specialize in the **multi-armed bandit** problem, particularly its applicatons to decision making problems where the data is comes from a quantum process.
 
 Additionally, I investigate the quantum generalizations of **Partially Observable Markov Decision Processes** (POMDPs). By analyzing quantum processes with memory, I work to provide a robust theoretical foundation for describing stochastic processes, quantum states with finite correlations, and advanced RL frameworks dealing with quantum data.
 
