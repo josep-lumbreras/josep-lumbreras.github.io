@@ -14,11 +14,11 @@ I completed my Ph.D. at the <a href="https://www.quantumlah.org/people/profile/j
 
 ## Research interests
 
-In general, my research interests lie in **(quantum) learning theory**.
+My research lies at the forefront of **(quantum) learning theory**.
 
-My main line of work is at the intersection of **reinforcement learning** and **quantum information**, where I aim to establish rigorous theoretical results. I am particularly interested in applying reinforcement learning to quantum settings, including adaptive measurements, quantum control, and thermodynamic agents. Within the broad landscape of RL frameworks, I have focused especially on the **multi-armed bandit** problem and its applications to quantum tasks.
+I work at the intersection of **reinforcement learning** (RL) and **quantum information**, establishing rigorous theoretical guarantees for quantum algorithms. My primary focus is on applying RL to complex quantum environments, with specific interests in adaptive measurements, quantum control, and the behavior of thermodynamic agents. Within the broader RL landscape, I specialize in the **multi-armed bandit** problem, particularly its applicatons to decision making problems where the data is comes from a quantum process.
 
-I also study the quantum generalization of **(Partially Observable) Hidden Markov Models**, investigating both their fundamental aspects and practical applications. These models provide a foundation for describing stochastic processes, quantum states with finite correlations, and several reinforcement learning frameworks with quantum data.
+Additionally, I investigate the quantum generalizations of **Partially Observable Markov Decision Processes** (POMDPs). By analyzing quantum processes with memory, I work to provide a robust theoretical foundation for describing stochastic processes, quantum states with finite correlations, and advanced RL frameworks dealing with quantum data.
 
 Feel free to reach out by email if you would like to discuss these topics or explore potential collaborations.
 
@@ -32,11 +32,11 @@ Feel free to reach out by email if you would like to discuss these topics or exp
 
 1. *Quantum state-agnostic work extraction (almost) without dissipation* <br>
 **J. Lumbreras**, R.C. Cheng, Y. Hu, M. Gu, M. Tomamichel.<br>
-[<a href="https://qtml2025.cqt.sg/accepted-papers/" target="_blank">QTML2025</a>][<a href="http://aqis-conf.org/2025/program" target="_blank">AQIS25</a>][<a href="https://2025.quantumresources.science/accepted_talks.html" target="_blank">Quantum Resources (2025)</a>][<a href="https://arxiv.org/abs/2505.09456" target="_blank">arXiv (2025)</a>]
+[<a href="https://www.youtube.com/watch?v=zYDusKXgz9I&t=6s" target="_blank">QTML2025</a>][<a href="http://aqis-conf.org/2025/program" target="_blank">AQIS25</a>][<a href="https://2025.quantumresources.science/accepted_talks.html" target="_blank">Quantum Resources (2025)</a>][<a href="https://arxiv.org/abs/2505.09456" target="_blank">arXiv (2025)</a>]
 
 1. *Learning pure quantum states (almost) without regret* <br>
 **J. Lumbreras**, M. Terekhov, M. Tomamichel.<br>
-[<a href="https://qtml2025.cqt.sg/accepted-papers/" target="_blank">QTML2025</a>][<a href="https://submissions.mirasmart.com/International2025/Itinerary/PresentationDetail.aspx?evdid=652" target="_blank">INFORMS2025</a>][<a href="http://aqis-conf.org/2024/program" target="_blank">AQIS24 (long talk)</a>][<a href="https://arxiv.org/abs/2406.18370" target="_blank">arXiv (2024)</a>]
+[<a href="https://www.youtube.com/watch?v=SZhQOZg8NTs" target="_blank">QTML2025</a>][<a href="https://submissions.mirasmart.com/International2025/Itinerary/PresentationDetail.aspx?evdid=652" target="_blank">INFORMS2025</a>][<a href="http://aqis-conf.org/2024/program" target="_blank">AQIS24 (long talk)</a>][<a href="https://arxiv.org/abs/2406.18370" target="_blank">arXiv (2024)</a>]
 
 1. *Linear bandits with polylogarithmic minimax regret* <br>
 **J. Lumbreras**, M. Tomamichel.<br>
