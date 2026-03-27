@@ -26,6 +26,10 @@ Feel free to reach out by email if you would like to discuss these topics or exp
 
 ## Publications
 
+1. *Reinforcement learning for quantum processes with memory* <br>
+**J. Lumbreras**, R.C. Cheng, Y. Hu, M. Fanizza, M. Gu,<br>
+[<a href="https://arxiv.org/abs/2603.25138" target="_blank">arXiv (2026)</a>]
+
 1. *Bandits roaming Hilbert space* <br>
 **J. Lumbreras**.<br>
 [<a href="https://arxiv.org/abs/2509.24569" target="_blank">arXiv (2025)</a>]
