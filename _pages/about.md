@@ -26,6 +26,10 @@ Feel free to reach out by email if you would like to discuss these topics or exp
 
 ## Publications
 
+1. *Learning Pure Quantum States in Any Dimension (Almost) Without Regret* <br>
+**J. Lumbreras**, M. Tomamichel.<br>
+[<a href="https://arxiv.org/abs/2605.09019" target="_blank">arXiv (2026)</a>]
+
 1. *Quantum Tilted Loss in Variational Optimization: Theory and Applications* <br>
 Y. Qiu, **J. Lumbreras**, X. Li, P. Rebentrost<br>
 [<a href="https://arxiv.org/abs/2605.02850" target="_blank">arXiv (2026)</a>]
