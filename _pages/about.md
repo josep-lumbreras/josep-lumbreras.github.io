@@ -28,7 +28,7 @@ Feel free to reach out by email if you would like to discuss these topics or exp
 
 1. *Learning Pure Quantum States in Any Dimension (Almost) Without Regret* <br>
 **J. Lumbreras**, M. Tomamichel.<br>
-[<a href="https://arxiv.org/abs/2605.09019" target="_blank">arXiv (2026)</a>]
+[<a href="https://www.nature.com/articles/s41534-026-01305-z" target="_blank">Nature Partner Journal: quantum information</a>][<a href="https://arxiv.org/abs/2605.09019" target="_blank">arXiv (2026)</a>]
 
 1. *Quantum Tilted Loss in Variational Optimization: Theory and Applications* <br>
 Y. Qiu, **J. Lumbreras**, X. Li, P. Rebentrost<br>
@@ -48,7 +48,7 @@ Y. Qiu, **J. Lumbreras**, X. Li, P. Rebentrost<br>
 
 1. *Learning pure quantum states (almost) without regret* <br>
 **J. Lumbreras**, M. Terekhov, M. Tomamichel.<br>
-[<a href="https://www.youtube.com/watch?v=SZhQOZg8NTs" target="_blank">QTML2025</a>][<a href="https://submissions.mirasmart.com/International2025/Itinerary/PresentationDetail.aspx?evdid=652" target="_blank">INFORMS2025</a>][<a href="http://aqis-conf.org/2024/program" target="_blank">AQIS24 (long talk)</a>][<a href="https://arxiv.org/abs/2406.18370" target="_blank">arXiv (2024)</a>]
+[<a href="https://www.nature.com/articles/s41534-026-01305-z" target="_blank">Nature Partner Journal: quantum information</a>][<a href="https://www.youtube.com/watch?v=SZhQOZg8NTs" target="_blank">QTML2025</a>][<a href="https://submissions.mirasmart.com/International2025/Itinerary/PresentationDetail.aspx?evdid=652" target="_blank">INFORMS2025</a>][<a href="http://aqis-conf.org/2024/program" target="_blank">AQIS24 (long talk)</a>][<a href="https://arxiv.org/abs/2406.18370" target="_blank">arXiv (2024)</a>]
 
 1. *Linear bandits with polylogarithmic minimax regret* <br>
 **J. Lumbreras**, M. Tomamichel.<br>
