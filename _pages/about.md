@@ -14,13 +14,11 @@ I completed my Ph.D. at the <a href="https://www.quantumlah.org/people/profile/j
 
 ## Research interests
 
-My research lies at the forefront of **(quantum) learning theory**.
+My research is at the intersection of quantum information and machine learning. I am broadly interested in how agents can learn, adapt, and make decisions when interacting with quantum systems or other complex environments with hidden structure.
 
-I work at the intersection of **reinforcement learning** (RL) and **quantum information**, establishing rigorous theoretical guarantees. My primary focus is on applying RL to complex quantum environments, with specific interests in adaptive measurements, quantum control, and the behavior of thermodynamic agents. Within the broader RL landscape, I specialize in the **multi-armed bandit** problem, particularly its applicatons to decision making problems where the data comes from a quantum process.
+A recurring theme in my work is adaptivity: how measurements, actions, and protocols should be chosen sequentially in order to extract information, optimize performance, or manipulate quantum resources. This connects naturally with reinforcement learning, bandits, partially observable systems, and world models, as well as with adaptive protocols for quantum information processing and resource distillation.
 
-One of the framewors I am interested is the quantum generalizations of **Partially Observable Markov Decision Processes** (POMDPs). By analyzing quantum processes with memory, I work to provide a robust theoretical foundation for describing stochastic processes, quantum states with finite correlations, and advanced RL frameworks dealing with quantum data.
-
-Feel free to reach out by email if you would like to discuss these topics or explore potential collaborations.
+More generally, I am interested in developing theoretical tools for understanding learning and decision-making in quantum settings, especially when memory, partial observability, and sequential interaction play an essential role.
 
 
 
