@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-I am Josep Lumbreras, a Research Fellow at <a href="https://www.ntu.edu.sg" target="_blank">Nanyang Technological University</a> (Singapore), where I work in the group of Prof. <a href="https://www.quantumcomplexity.org/milegu/" target="_blank">Mile Gu</a>.
-I completed my Ph.D. at the <a href="https://www.quantumlah.org/people/profile/josep_l" target="_blank">Centre for Quantum Technologies</a>, National University of Singapore, under the supervision of Prof. <a href="https://marcotom.info" target="_blank">Marco Tomamichel</a>. Before that, I obtained a double major in Physics and Mathematics as well as a Master’s degree in Particle Physics and Gravitation from the University of Barcelona.
+I am Josep Lumbreras, a Research Fellow at <a href="https://www.ntu.edu.sg" target="_blank">Nanyang Technological University</a> (Singapore) and affiliate at the <a href="https://www.cqt.sg/people/josep-lumbreras/" target="_blank">Centre for Quantum Technologies</a>, where I work in the group of Prof. <a href="https://www.quantumcomplexity.org/milegu/" target="_blank">Mile Gu</a>.
+I completed my Ph.D. at the National University of Singapore, under the supervision of Prof. <a href="https://marcotom.info" target="_blank">Marco Tomamichel</a>. Before that, I obtained a double major in Physics and Mathematics as well as a Master’s degree in Particle Physics and Gravitation from the University of Barcelona.
 
 
 ## Research interests
