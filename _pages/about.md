@@ -24,6 +24,10 @@ More generally, I am interested in developing theoretical tools for understandin
 
 ## Publications
 
+1. *An Irreducible Quantum Advantage in Aligning World Models with Reality* <br>
+**J. Lumbreras**, H. Ma, J. Thompson, M.Gu.<br>
+[<a href="https://arxiv.org/abs/2608.19779" target="_blank">arXiv (2026)</a>]
+
 1. *Learning Pure Quantum States in Any Dimension (Almost) Without Regret* <br>
 **J. Lumbreras**, M. Tomamichel.<br>
 [<a href="https://www.nature.com/articles/s41534-026-01305-z" target="_blank">Nature Partner Journal: quantum information</a>][<a href="https://arxiv.org/abs/2605.09019" target="_blank">arXiv (2026)</a>]
@@ -34,7 +38,7 @@ Y. Qiu, **J. Lumbreras**, X. Li, P. Rebentrost<br>
 
 1. *Reinforcement learning for quantum processes with memory* <br>
 **J. Lumbreras**, R.C. Cheng, Y. Hu, M. Fanizza, M. Gu.<br>
-[<a href="https://arxiv.org/abs/2603.25138" target="_blank">arXiv (2026)</a>]
+[<a href="https://aqis-conf.org/2026/wp-content/uploads/2026/08/contents.pdf" target="_blank">AQIS26</a>][<a href="https://arxiv.org/abs/2406.18370" target="_blank">arXiv (2024)</a>][<a href="https://arxiv.org/abs/2603.25138" target="_blank">arXiv (2026)</a>]
 
 1. *Bandits roaming Hilbert space* <br>
 **J. Lumbreras**.<br>
