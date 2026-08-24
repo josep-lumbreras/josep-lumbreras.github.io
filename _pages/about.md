@@ -14,9 +14,9 @@ I completed my Ph.D. at the National University of Singapore, under the supervis
 
 ## Research interests
 
-My research is at the intersection of quantum information and machine learning. I am broadly interested in how agents can learn, adapt, and make decisions when interacting with quantum systems or other complex environments with hidden structure.
+My research is at the intersection of quantum information and machine learning. I am broadly interested in how agents (classical or quantum) can learn, adapt, and make decisions when interacting with quantum systems or other complex environments with hidden structure.
 
-A recurring theme in my work is adaptivity: how measurements, actions, and protocols should be chosen sequentially in order to extract information, optimize performance, or manipulate quantum resources. This connects naturally with reinforcement learning, bandits, partially observable systems, and world models, as well as with adaptive protocols for quantum information processing and resource distillation.
+A recurring theme in my work is adaptivity: how measurements, actions, and protocols should be chosen sequentially in order to extract information, optimize performance, or manipulate quantum resources. This connects naturally with reinforcement learning, bandits, hidden Markov models, stochastic processes, as well as with adaptive protocols for quantum information processing and resource distillation.
 
 More generally, I am interested in developing theoretical tools for understanding learning and decision-making in quantum settings, especially when memory, partial observability, and sequential interaction play an essential role.
 
