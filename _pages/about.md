@@ -38,7 +38,7 @@ Y. Qiu, **J. Lumbreras**, X. Li, P. Rebentrost<br>
 
 1. *Reinforcement learning for quantum processes with memory* <br>
 **J. Lumbreras**, R.C. Cheng, Y. Hu, M. Fanizza, M. Gu.<br>
-[<a href="https://aqis-conf.org/2026/wp-content/uploads/2026/08/contents.pdf" target="_blank">AQIS26</a>][<a href="https://arxiv.org/abs/2406.18370" target="_blank">arXiv (2024)</a>][<a href="https://arxiv.org/abs/2603.25138" target="_blank">arXiv (2026)</a>]
+[<a href="https://aqis-conf.org/2026/wp-content/uploads/2026/08/contents.pdf" target="_blank">AQIS26</a>][<a href="https://arxiv.org/abs/2603.25138" target="_blank">arXiv (2026)</a>]
 
 1. *Bandits roaming Hilbert space* <br>
 **J. Lumbreras**.<br>
